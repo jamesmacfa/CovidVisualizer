@@ -3,8 +3,7 @@ import json
 from uk_covid19 import Cov19API
 
 scotland = [
-    'areaType=nation',
-    'areaName=Scotland'
+    'areaCode=S12000036'
 ]
 
 cases_and_deaths = {
@@ -17,8 +16,6 @@ cases_and_deaths = {
     "cumDeathsByDeathDate": "cumDeathsByDeathDate"
 }
 
-api = Cov19API(filters=scotland, structure=cases_and_deaths)
-data = api.get_json()  # Returns a dictionary
+api = Cov19API(filters=scotland, structure=cases_and_deaths)  # Returns a dictionary
+data = api.get_json()
 print(data)
-
-
