@@ -1,0 +1,1951 @@
+{
+    "data": [
+        {
+            "date": "2020-08-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 60,
+            "cumCasesByPublishDate": 18950,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 43,
+            "cumCasesByPublishDate": 18890,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 66,
+            "cumCasesByPublishDate": 18847,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 64,
+            "cumCasesByPublishDate": 18781,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 23,
+            "cumCasesByPublishDate": 18717,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 18694,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 31,
+            "cumCasesByPublishDate": 18676,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-08-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 18645,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-31",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 30,
+            "cumCasesByPublishDate": 18627,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 17,
+            "cumCasesByPublishDate": 18597,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 22,
+            "cumCasesByPublishDate": 18580,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 4,
+            "cumCasesByPublishDate": 18558,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 3,
+            "cumCasesByPublishDate": 18554,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 4,
+            "cumCasesByPublishDate": 18551,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 27,
+            "cumCasesByPublishDate": 18547,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 20,
+            "cumCasesByPublishDate": 18520,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 16,
+            "cumCasesByPublishDate": 18500,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 10,
+            "cumCasesByPublishDate": 18484,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 22,
+            "cumCasesByPublishDate": 18474,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 7,
+            "cumCasesByPublishDate": 18452,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 23,
+            "cumCasesByPublishDate": 18445,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 21,
+            "cumCasesByPublishDate": 18422,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 17,
+            "cumCasesByPublishDate": 18401,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 11,
+            "cumCasesByPublishDate": 18384,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 18373,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 3,
+            "cumCasesByPublishDate": 18368,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 6,
+            "cumCasesByPublishDate": 18365,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 19,
+            "cumCasesByPublishDate": 18359,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 7,
+            "cumCasesByPublishDate": 18340,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 18333,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 6,
+            "cumCasesByPublishDate": 18315,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 7,
+            "cumCasesByPublishDate": 18309,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 2,
+            "cumCasesByPublishDate": 18302,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 4,
+            "cumCasesByPublishDate": 18300,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 9,
+            "cumCasesByPublishDate": 18296,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 11,
+            "cumCasesByPublishDate": 18287,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 12,
+            "cumCasesByPublishDate": 18276,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 18264,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-07-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 8,
+            "cumCasesByPublishDate": 18259,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 10,
+            "cumCasesByPublishDate": 18251,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 18241,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 8,
+            "cumCasesByPublishDate": 18236,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 15,
+            "cumCasesByPublishDate": 18228,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 17,
+            "cumCasesByPublishDate": 18213,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 18196,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 9,
+            "cumCasesByPublishDate": 18191,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 12,
+            "cumCasesByPublishDate": 18182,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 14,
+            "cumCasesByPublishDate": 18170,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 26,
+            "cumCasesByPublishDate": 18156,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 26,
+            "cumCasesByPublishDate": 18130,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 27,
+            "cumCasesByPublishDate": 18104,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 11,
+            "cumCasesByPublishDate": 18077,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 21,
+            "cumCasesByPublishDate": 18066,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 15,
+            "cumCasesByPublishDate": 18045,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 29,
+            "cumCasesByPublishDate": 18030,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 25,
+            "cumCasesByPublishDate": 15755,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 21,
+            "cumCasesByPublishDate": 15730,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 27,
+            "cumCasesByPublishDate": 15709,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 17,
+            "cumCasesByPublishDate": 15682,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 12,
+            "cumCasesByPublishDate": 15665,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 14,
+            "cumCasesByPublishDate": 15653,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 15639,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 15621,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 21,
+            "cumCasesByPublishDate": 15603,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 29,
+            "cumCasesByPublishDate": 15582,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 49,
+            "cumCasesByPublishDate": 15553,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 33,
+            "cumCasesByPublishDate": 15504,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 53,
+            "cumCasesByPublishDate": 15471,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-06-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 15418,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-31",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 15400,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 55,
+            "cumCasesByPublishDate": 15382,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 39,
+            "cumCasesByPublishDate": 15327,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 48,
+            "cumCasesByPublishDate": 15288,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 55,
+            "cumCasesByPublishDate": 15240,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 29,
+            "cumCasesByPublishDate": 15185,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 55,
+            "cumCasesByPublishDate": 15156,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 60,
+            "cumCasesByPublishDate": 15101,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 72,
+            "cumCasesByPublishDate": 15041,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 113,
+            "cumCasesByPublishDate": 14969,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 105,
+            "cumCasesByPublishDate": 14856,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 96,
+            "cumCasesByPublishDate": 14751,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 61,
+            "cumCasesByPublishDate": 14655,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 57,
+            "cumCasesByPublishDate": 14594,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 90,
+            "cumCasesByPublishDate": 14537,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 187,
+            "cumCasesByPublishDate": 14447,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 143,
+            "cumCasesByPublishDate": 14260,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 188,
+            "cumCasesByPublishDate": 14117,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 166,
+            "cumCasesByPublishDate": 13929,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 136,
+            "cumCasesByPublishDate": 13763,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 141,
+            "cumCasesByPublishDate": 13627,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 181,
+            "cumCasesByPublishDate": 13486,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 156,
+            "cumCasesByPublishDate": 13305,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 225,
+            "cumCasesByPublishDate": 13149,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 215,
+            "cumCasesByPublishDate": 12924,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 272,
+            "cumCasesByPublishDate": 12709,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 171,
+            "cumCasesByPublishDate": 12437,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 169,
+            "cumCasesByPublishDate": 12266,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 170,
+            "cumCasesByPublishDate": 12097,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 273,
+            "cumCasesByPublishDate": 11927,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-05-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 301,
+            "cumCasesByPublishDate": 11654,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 319,
+            "cumCasesByPublishDate": 11353,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 313,
+            "cumCasesByPublishDate": 11034,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 200,
+            "cumCasesByPublishDate": 10721,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 197,
+            "cumCasesByPublishDate": 10521,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 273,
+            "cumCasesByPublishDate": 10324,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 354,
+            "cumCasesByPublishDate": 10051,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 288,
+            "cumCasesByPublishDate": 9697,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 371,
+            "cumCasesByPublishDate": 9409,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 366,
+            "cumCasesByPublishDate": 9038,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 222,
+            "cumCasesByPublishDate": 8672,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 263,
+            "cumCasesByPublishDate": 8450,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 367,
+            "cumCasesByPublishDate": 8187,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 411,
+            "cumCasesByPublishDate": 7820,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 307,
+            "cumCasesByPublishDate": 7409,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 354,
+            "cumCasesByPublishDate": 7102,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 390,
+            "cumCasesByPublishDate": 6748,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 291,
+            "cumCasesByPublishDate": 6358,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 155,
+            "cumCasesByPublishDate": 6067,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 322,
+            "cumCasesByPublishDate": 5912,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 315,
+            "cumCasesByPublishDate": 5590,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 318,
+            "cumCasesByPublishDate": 5275,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 392,
+            "cumCasesByPublishDate": 4957,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 336,
+            "cumCasesByPublishDate": 4565,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 268,
+            "cumCasesByPublishDate": 4229,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 255,
+            "cumCasesByPublishDate": 3961,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 361,
+            "cumCasesByPublishDate": 3706,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 344,
+            "cumCasesByPublishDate": 3345,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 399,
+            "cumCasesByPublishDate": 3001,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 292,
+            "cumCasesByPublishDate": 2602,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-04-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 317,
+            "cumCasesByPublishDate": 2310,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-31",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 430,
+            "cumCasesByPublishDate": 1993,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 179,
+            "cumCasesByPublishDate": 1563,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 139,
+            "cumCasesByPublishDate": 1384,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 186,
+            "cumCasesByPublishDate": 1245,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 165,
+            "cumCasesByPublishDate": 1059,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 175,
+            "cumCasesByPublishDate": 894,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 135,
+            "cumCasesByPublishDate": 719,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 85,
+            "cumCasesByPublishDate": 584,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 83,
+            "cumCasesByPublishDate": 499,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 43,
+            "cumCasesByPublishDate": 416,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 51,
+            "cumCasesByPublishDate": 373,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 56,
+            "cumCasesByPublishDate": 322,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 39,
+            "cumCasesByPublishDate": 266,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 32,
+            "cumCasesByPublishDate": 227,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 24,
+            "cumCasesByPublishDate": 195,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 18,
+            "cumCasesByPublishDate": 171,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 32,
+            "cumCasesByPublishDate": 153,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 36,
+            "cumCasesByPublishDate": 121,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 25,
+            "cumCasesByPublishDate": 85,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 24,
+            "cumCasesByPublishDate": 60,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 9,
+            "cumCasesByPublishDate": 36,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 4,
+            "cumCasesByPublishDate": 27,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 23,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 2,
+            "cumCasesByPublishDate": 18,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 16,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 5,
+            "cumCasesByPublishDate": 11,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 3,
+            "cumCasesByPublishDate": 6,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 2,
+            "cumCasesByPublishDate": 3,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": 1,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 1,
+            "cumCasesByPublishDate": 1,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-03-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-05",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-04",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-03",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-02",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-02-01",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-31",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-30",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-29",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-28",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-27",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-26",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-25",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-24",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-23",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-22",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-21",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-20",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-19",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-18",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-17",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-16",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-15",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-14",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-13",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-12",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-11",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-10",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-09",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-08",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-07",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        },
+        {
+            "date": "2020-01-06",
+            "areaName": "Scotland",
+            "areaCode": "S92000003",
+            "newCasesByPublishDate": 0,
+            "cumCasesByPublishDate": null,
+            "newDeathsByDeathDate": null,
+            "cumDeathsByDeathDate": null
+        }
+    ],
+    "lastUpdate": "2020-08-08T14:49:35.000000Z",
+    "length": 216,
+    "totalPages": 1
+}
