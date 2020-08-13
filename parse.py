@@ -5,11 +5,21 @@ import numpy as np
 from uk_covid19 import Cov19API
 
 
+<<<<<<< HEAD
 englandla = [
     #'areaCode!=Q',
     'areaCode>E00000000',
     'areaCode<E99999999',
     'date>=2020-07-01'
+=======
+
+
+scotland = [
+    'areaName=City of Edinburgh',
+    #'areaCode>=S00000000',
+    #'areaCode<=S99999999',
+    'date>=2020-08-11'
+>>>>>>> b01a9618ae56f873f772823aa38da21cfe10103b
 ]
 
 customStructure = {
@@ -21,6 +31,7 @@ customStructure = {
         "daily":"newCasesByPublishDate",
         "cumulative":"cumCasesByPublishDate"
     },
+<<<<<<< HEAD
     "cases 2": {
     "newCasesBySpecimenDate": "newCasesBySpecimenDate",
     "cumCasesBySpecimenDate": "cumCasesBySpecimenDate"    
@@ -28,6 +39,11 @@ customStructure = {
     "deaths1": {
         "daily":"newDeathsByDeathDate",
         "cumulative":"cumDeathsByDeathDate"
+=======
+    "deaths": {
+        #"daily":"newDeathsByDeathDate",
+        #"cumulative":"cumDeathsByDeathDate"
+>>>>>>> b01a9618ae56f873f772823aa38da21cfe10103b
     },
     "deaths2":{
         "newDeathsByPublishDate": "newDeathsByPublishDate",
