@@ -1,15 +1,15 @@
 import requests
 import json
+import pandas as pd
+import numpy as np
 from uk_covid19 import Cov19API
 
 
-
-
-scotland = [
-    'areaName=Aberdeen City',
-    #'areaCode>=S00000000',
-    #'areaCode<=S99999999',
-    'date>=2020-08-11'
+englandla = [
+    #'areaCode!=Q',
+    'areaCode>E00000000',
+    'areaCode<E99999999',
+    'date>=2020-07-01'
 ]
 
 customStructure = {
@@ -17,19 +17,30 @@ customStructure = {
     "areaType": "areaType",
     "areaName": "areaName",
     "areaCode": "areaCode",
-    "hash": "hash",
-    "cases": {
+        "cases 1": {
         "daily":"newCasesByPublishDate",
         "cumulative":"cumCasesByPublishDate"
     },
-    "deaths": {
+    "cases 2": {
+    "newCasesBySpecimenDate": "newCasesBySpecimenDate",
+    "cumCasesBySpecimenDate": "cumCasesBySpecimenDate"    
+    },
+    "deaths1": {
         "daily":"newDeathsByDeathDate",
         "cumulative":"cumDeathsByDeathDate"
     },
-    "specimenDate": {
-    "newCasesBySpecimenDate": "newCasesBySpecimenDate",
-    "cumCasesBySpecimenDate": "cumCasesBySpecimenDate"    
+    "deaths2":{
+        "newDeathsByPublishDate": "newDeathsByPublishDate",
+        "cumDeathsByPublishDate": "cumDeathsByPublishDate"
     }
+}
+
+columns = {
+    "areaType":"areaType"
+,"areaName":"areaName"
+,"date" : "date"
+,"newCasesBySpecimenDate": "newCasesBySpecimenDate"
+,"cumCasesBySpecimenDate": "cumCasesBySpecimenDate"    
 }
 
 structureAll ={
@@ -43,8 +54,8 @@ structureAll ={
         "cumulative":"cumCasesByPublishDate"
     },
     "deaths": {
-        "daily":"newDeathsByDeathDate",
-        "cumulative":"cumDeathsByDeathDate"
+        "daily":"newDeaths28DaysByPublishDate",
+        "cumulative":"cumDeaths28DaysByPublishDate"
     },
     "specimenDate": {
     "newCasesBySpecimenDate": "newCasesBySpecimenDate",
@@ -68,15 +79,14 @@ structureAll ={
     "covidOccupiedMVBeds": "covidOccupiedMVBeds",
     "hospitalCases": "hospitalCases",
     "plannedCapacityByPublishDate": "plannedCapacityByPublishDate",
-    "newDeathsByPublishDate": "newDeathsByPublishDate",
-    "cumDeathsByPublishDate": "cumDeathsByPublishDate",
-    "newDeathsByDeathDate": "newDeathsByDeathDate",
-    "cumDeathsByDeathDate": "cumDeathsByDeathDate",
-    "femaleDeaths": "femaleDeaths",
-    "maleDeaths": "maleDeaths"
+    "newDeaths28DaysByPublishDate": "newDeaths28DaysByPublishDate",
+    "cumDeaths28DaysByPublishDate": "cumDeaths28DaysByPublishDate"
 }
 
-api = Cov19API(filters=scotland, structure=customStructure)  # Returns a dictionary
-data = api.get_json("scotland.json")
+api = Cov19API(filters=englandla, structure=columns)  # Returns a dictionary
+data = api.get_json("england.json")
 print(data)
+#ltlasDf = pd.DataFrame(data['data'])
+#print(ltlasDf)
+
 
