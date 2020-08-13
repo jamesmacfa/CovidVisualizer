@@ -1,7 +1,5 @@
 import requests
 import json
-import pandas as pd
-import numpy as np
 from uk_covid19 import Cov19API
 
 
@@ -84,7 +82,7 @@ structureAll ={
 }
 
 api = Cov19API(filters=englandla, structure=columns)  # Returns a dictionary
-data = api.get_json("england.json")
+data = api.get_json("../data/england.json")
 print(data)
 #ltlasDf = pd.DataFrame(data['data'])
 #print(ltlasDf)
