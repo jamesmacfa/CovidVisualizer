@@ -6,7 +6,7 @@ from uk_covid19 import Cov19API
 
 
 scotland = [
-    'areaName=Aberdeen City',
+    'areaName=City of Edinburgh',
     #'areaCode>=S00000000',
     #'areaCode<=S99999999',
     'date>=2020-08-11'
@@ -23,8 +23,8 @@ customStructure = {
         "cumulative":"cumCasesByPublishDate"
     },
     "deaths": {
-        "daily":"newDeathsByDeathDate",
-        "cumulative":"cumDeathsByDeathDate"
+        #"daily":"newDeathsByDeathDate",
+        #"cumulative":"cumDeathsByDeathDate"
     },
     "specimenDate": {
     "newCasesBySpecimenDate": "newCasesBySpecimenDate",
